@@ -1,0 +1,7 @@
+plotly
+jupyter
+pandas
+numpy
+matplotlib
+cufflinks
+requests
