@@ -5,3 +5,5 @@ numpy
 matplotlib
 cufflinks
 requests
+psutil
+plotly-orca
